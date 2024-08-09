@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 45vh;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 45px;
+    font-weight: 500;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.image-container {
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
+
+.image-jagii {
+    height: 150px;
+}
+
+.puri-heading {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    color: #151765;
+    padding: 5px;
+}
+
+.puri-para {
+    color: #5a7184;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.jagannadhpuri-bg-container {
+    background-color: #151765;
+    height: 40vh;
+    padding: 10px;
+    margin: 10px;
+}
+
+.jagannadhpuri-image {
+    height: 30vh;
+    padding: 20px;
+    margin: 20px;
+}
+
+.podcast {
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.podcast-name {
+    font-family: Roboto;
+    color: #151765;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title {
+    font-family: Roboto;
+    color: #5a7184;
+    font-weight: bold;
+    text-align: center;
+}
+
+.time {
+    color: #151765;
+    font-weight: bold;
+    text-align: center;
+}
+
+.button {
+    margin: 30px;
+    color: #ffffff;
+    background-color: #151765;
+    border-radius: 25px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.Tedextalk-podcast-bg-container {
+    background-color: #151765;
+    height: 40vh;
+}
+
+.Tedextalk-image {
+    height: 30vh;
+    padding: 20px;
+    margin: 20px;
+}
+
+.Tedexpodcat {
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.tedexname {
+    font-size: 30px;
+    font-family: Roboto;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.tedexparagraph {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.tedextitale {
+    color: #151765;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.tedexparagraph {
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.tedextime {
+    color: #151765;
+    font-weight: bold;
+}
+
+.Sadhgurupodcast-bg-container {
+    background-color: #151765;
+    height: 40vh;
+}
+
+.sadhguru-img {
+    height: 30vh;
+    padding: 20px;
+    margin: 20px;
+}
+
+.Sadhgurutital {
+    padding: 10px;
+    font-size: 30px;
+    font-family: Roboto;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.Sadhguruparagraph {
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.Sadhgurupadcast {
+    color: #151765;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.Sadhaguruheading {
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.Sadhagurutime {
+    color: #151765;
+    font-weight: bold;
+}
+
+.PodcastOnpurpose-bg-container {
+    background-color: #151765;
+    height: 40vh;
+}
+
+.on-purpose-img {
+    height: 30vh;
+    padding: 20px;
+    margin: 20px;
+}
+
+.Onpurposeparagraph {
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.onpurpose-title {
+    color: #151765;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.onpurpose-paragraph {
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.onpurpose-time {
+    color: #151765;
+    font-weight: bold;
+}
